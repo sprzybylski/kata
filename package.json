@@ -1,0 +1,15 @@
+{
+  "name": "gol",
+  "version": "1.0.0",
+  "scripts": {
+    "test": "node_modules/.bin/mocha"
+  },
+  "dependencies": {
+    "cli-color": "^0.3.2",
+    "sleep": "^1.1.8"
+  },
+  "devDependencies": {
+    "chai": "^1.9.2",
+    "mocha": "^1.21.5"
+  }
+}
