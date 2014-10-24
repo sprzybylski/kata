@@ -1,9 +1,11 @@
 {
-  "name": "gol",
+  "name": "game-of-life-kata",
   "version": "1.0.0",
+  "repository": "sprzybylski/kata",
+  "description": "Game of Life - kata",
   "scripts": {
     "test": "node_modules/.bin/mocha",
-    "gol": "node demo/gol.js"
+    "start": "node demo/gol.js"
   },
   "dependencies": {
     "cli-color": "^0.3.2",
